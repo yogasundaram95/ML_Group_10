@@ -1,0 +1,2 @@
+Model,MSE,MAE,R2,Directional_Accuracy,Training_Samples,Synthetic_Samples
+Stock-GAN,0.005265749525278807,0.06156865879893303,0.851305365562439,1.0,2012,1006
